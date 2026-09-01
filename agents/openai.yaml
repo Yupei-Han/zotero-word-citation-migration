@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zotero Word Citation Migration"
+  short_description: "Convert Word citations into editable Zotero fields"
+  default_prompt: "Use $zotero-word-citation-migration to convert this DOCX citation system into Zotero-editable fields and verify the result."
